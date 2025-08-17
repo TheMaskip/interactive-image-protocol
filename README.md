@@ -60,4 +60,4 @@ The application demonstrates the full, end-to-end workflow of the protocol:
 
 ## 📜 License
 
-This project is authored by **aezi zhu** and is available for personal, non-commercial use. Please refer to the license details in the specification repository.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
